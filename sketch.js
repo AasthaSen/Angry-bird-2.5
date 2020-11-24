@@ -48,7 +48,6 @@ function draw(){
     pig1.display();
     log1.display();
 
-    platform.display();
     box3.display();
     box4.display();
     pig3.display();
